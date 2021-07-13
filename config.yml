@@ -1,11 +1,12 @@
 baseurl: "/"
-name : "Harsh V Shalihotri
 title: "Harsh V Shalihotri"
 page_load_js: "js/main.js"
 params:
   palette: yellow
   header:
-    title: Harsh V Shalihotri
+    name : "Harsh V Shalihotri"
+    title: "Harsh V Shalihotri"
+    description : "This is a sample Blog page."
     tagline: Minimal and clean blog theme
     logo_img: "images/logo.svg"
     logo_img_alt: Fjord Logo
